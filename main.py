@@ -18,6 +18,8 @@ test_db 資料庫名稱
 '''
 
 
+"test git"
+
 data = test_db.db[memeber_num]
 print(data)
 
